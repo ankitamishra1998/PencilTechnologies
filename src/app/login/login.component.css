@@ -1,0 +1,18 @@
+.header{
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 40px;
+}
+
+.row{
+  margin-top: 10px;
+}
+
+.loginButton{
+  height: 50px;
+  width: -webkit-fill-available;
+  margin: 20px;
+  background-color: cornflowerblue;
+  border-radius: 35px;
+  border-color: cornflowerblue;
+}
